@@ -1,0 +1,17 @@
+# ===============================================================
+# Title: DNS server RegEx settings
+# Last updated: 08-FEB-2026
+# Project: https://github.com/zerosimonn/piholeblocklist
+# ===============================================================
+# Apply manually: 
+# Pi-Hole has preference to add these one-by-one in WebUI. 
+#
+# Apply via SSH:
+# curl -s https://raw.githubusercontent.com/zerosimonn/piholeblocklist/main/regex.txt | grep -v '^#' | xargs -I {} pihole --regex {}
+# ===============================================================
+
+# Block Apple Private Relay
+^mask\.apple-dns\.net$
+^mask-h2\.apple-dns\.net$
+
+# ===============================================================

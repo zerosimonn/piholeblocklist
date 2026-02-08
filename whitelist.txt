@@ -1,0 +1,23 @@
+# ===============================================================
+# Title: DNS server whitelist
+# Last updated: 08-FEB-2026
+# List is appended ad hoc. 
+#
+# Number of unique domains: 3
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/zerosimonn/piholeblocklist/refs/heads/main/whitelist.txt
+# Project home page: https://github.com/zerosimonn/piholeblocklist
+# Project releases: NA. 
+#
+# ===============================================================
+
+# AEG smart devices
+identity.myaccount.electroluxgroup.eu
+
+# RS3
+clicks.runescape.com
+
+# Finance information
+finance.yahoo.com
+
+# ===============================================================

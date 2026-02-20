@@ -20,4 +20,10 @@ clicks.runescape.com
 # Finance information
 finance.yahoo.com
 
+# Videoland
+cdns.gigya.com
+cdns.eu1.gigya.com
+accounts.eu1.gigya.com
+gscounters.eu1.gigya.com
+
 # ===============================================================

@@ -16,6 +16,7 @@ identity.myaccount.electroluxgroup.eu
 
 # RS3
 clicks.runescape.com
+cdn.braze.eu
 
 # Finance information
 finance.yahoo.com

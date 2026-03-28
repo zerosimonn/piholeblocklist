@@ -2,7 +2,7 @@
 Centralized repository for my personal DNS filtering rules. These Pi-hole configuration lists that are updated based on browsing experience.
 
 ## 🚀 Quick Links
-To use these in Pi-hole, right-click the "Raw Link" and copy it into your Pi-hole dashboard. Warning when using regular expressions: too broad rules can disable your internet. 
+To use these in Pi-hole, right-click the "Raw Link" and copy it into your Pi-hole dashboard. Warning when using regular expressions (regex): too broad rules can disable your internet. 
 
 | List Type | Description | Raw Link |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ To use these in Pi-hole, right-click the "Raw Link" and copy it into your Pi-hol
 ```bash
 curl -s [https://raw.githubusercontent.com/zerosimonn/piholeblocklist/main/regex.txt](https://raw.githubusercontent.com/zerosimonn/piholeblocklist/main/regex.txt) | grep -v '^#' | xargs -I {} pihole --regex {}
 ```
-3. Run Pi-hole Regex debudding mode. 
+3. Run Pi-hole Regex debugging mode. 
 
 ## 📝References
 https://docs.pi-hole.net/regex/tutorial/

@@ -3,7 +3,7 @@
 # Last updated: 08-FEB-2026
 # List is appended ad hoc. 
 #
-# Number of unique domains: 3
+# Number of unique domains: 4
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/zerosimonn/piholeblocklist/refs/heads/main/whitelist.txt
 # Project home page: https://github.com/zerosimonn/piholeblocklist

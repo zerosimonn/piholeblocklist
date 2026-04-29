@@ -15,5 +15,6 @@ ad-assets.futurecdn.net
 
 # IMDB adds
 amazon.co.uk
+amazon.fr
 
 # ===============================================================

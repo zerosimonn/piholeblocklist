@@ -13,6 +13,9 @@
 
 ad-assets.futurecdn.net
 
+# Marktplaats
+syndicatedsearch.goog
+
 # IMDB adds
 amazon.co.uk
 amazon.fr

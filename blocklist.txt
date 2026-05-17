@@ -15,6 +15,7 @@ ad-assets.futurecdn.net
 
 # Marktplaats
 syndicatedsearch.goog
+8.fb.html-load.com
 
 # IMDB adds
 amazon.co.uk

@@ -1,6 +1,6 @@
 # ===============================================================
 # Title: DNS server RegEx settings
-# Last updated: 08-FEB-2026
+# Last updated: 28-MAY-2026
 # Project: https://github.com/zerosimonn/piholeblocklist
 # ===============================================================
 # Apply manually: 
@@ -13,5 +13,8 @@
 # Block Apple Private Relay
 ^mask\.apple-dns\.net$
 ^mask-h2\.apple-dns\.net$
+
+# IMDb Amazon adds
+(^|\.)amazon-adsystem\.com$
 
 # ===============================================================

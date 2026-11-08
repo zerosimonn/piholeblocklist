@@ -31,6 +31,5 @@ api-tv.spotify.com
 cert-test.sandbox.google.com
 googleads.g.doubleclick.net
 logs.tclking.com
-*.log.tcl.com
 
 # ===============================================================

@@ -1,9 +1,9 @@
 # ===============================================================
 # Title: DNS server blocklist
-# Last updated: 28-May-2026
+# Last updated: 08-Nov-2026
 # List is appended ad hoc. 
 #
-# Number of unique domains: 7
+# Number of unique domains: 15
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/zerosimonn/piholeblocklist/refs/heads/main/blocklist.txt
 # Project home page: https://github.com/zerosimonn/piholeblocklist
@@ -22,5 +22,15 @@ amazon.co.uk
 amazon.fr
 adinfo.amazon.com
 ts.amazon-adsystem.com
+
+# TV
+androidtvchannels-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
+androidtvlauncherxfe-pa.googleapis.com
+api-tv.spotify.com
+cert-test.sandbox.google.com
+googleads.g.doubleclick.net
+logs.tclking.com
+*.log.tcl.com
 
 # ===============================================================

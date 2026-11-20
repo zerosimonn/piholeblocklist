@@ -20,6 +20,7 @@ syndicatedsearch.goog
 # IMDB adds
 amazon.co.uk
 amazon.fr
+amazon.de
 adinfo.amazon.com
 ts.amazon-adsystem.com
 

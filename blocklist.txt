@@ -21,6 +21,7 @@ syndicatedsearch.goog
 amazon.co.uk
 amazon.fr
 amazon.de
+amazon.it
 adinfo.amazon.com
 ts.amazon-adsystem.com
 
